@@ -1,6 +1,6 @@
 let jogador1 = 107
-let jogador2 = 103
-let escolha = 'impar'
+let jogador2 = 102
+let escolha = 'par'
 
 if (escolha === 'par' && jogador1 % 2 === 0 || jogador2 % 2 === 0) {
     console.log('PAR.');
